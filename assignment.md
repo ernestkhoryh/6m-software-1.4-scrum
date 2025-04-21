@@ -8,6 +8,9 @@ Question 1:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
 ```
+Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
+
+```
 Your answer here
 Scrum helps the team deliver high-quality and high-value work faster, adapt to changes efficiently which ensures infrastructure (e.g., cloud servers, student portals) evolves with real-time feedback and maintains transparency. 
 
@@ -23,13 +26,12 @@ Continuous Improvement – After each Sprint, the Retrospective lets the team re
 It allows the team to reflect on what worked, what didn’t, and how to get better next time.
 
 Transparent Collaboration – Scrum’s Kanban-style boards (To Do/Doing/Done) provide visibility, reducing miscommunication between IT, teachers, and management.
-
+```
 
 Question 2:
 Write ten (10) user stories for a book-borrowing website for a library. Write it in the format: `As a ____, I want to ____, so that _____`.
 
 ```
-
 As a student, I want to search for books by title, author, or genre, so that I can quickly find what I need.
 
 As a library member, I want to reserve a book online, so that I can pick it up later when it's available.
@@ -131,4 +133,3 @@ _Example of Referencing Online Resources_
 - https://developer.mozilla.org/en-US/
 - https://www.w3schools.com/html/
 - https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
-
