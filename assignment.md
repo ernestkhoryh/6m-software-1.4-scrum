@@ -7,7 +7,6 @@ Write your answers for each question:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
 ```
-Your answer here
 Scrum helps the team deliver high-quality and high-value work faster, adapt to changes efficiently which ensures infrastructure (e.g., cloud servers, student portals) evolves with real-time feedback and maintains transparency. 
 
 Faster Delivery – Scrum breaks work into short Sprints (2-4 weeks), enabling the team to deliver functional IT solutions (e.g., LMS setups, network configurations) incrementally and focusing on clear, short-term goals. This helps avoid the chaos of juggling multiple tasks at once and ensures steady progress 
